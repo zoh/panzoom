@@ -20,7 +20,6 @@
     "url": "https://github.com/anvaka/panzoom"
   },
   "dependencies": {
-    "amator": "^1.1.0",
     "ngraph.events": "0.0.4",
     "wheel": "0.0.5"
   },

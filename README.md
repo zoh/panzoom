@@ -1,4 +1,4 @@
-# panzoom [![Build Status](https://travis-ci.org/anvaka/panzoom.svg)](https://travis-ci.org/anvaka/panzoom)
+# panzoom without animate!
 
 Extensible, mobile friendly pan and zoom framework (supports DOM and SVG).
 
